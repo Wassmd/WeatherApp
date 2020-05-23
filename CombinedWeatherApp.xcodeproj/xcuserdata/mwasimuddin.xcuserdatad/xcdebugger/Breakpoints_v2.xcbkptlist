@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2A7551A8-BD3A-496E-A5A6-8A32CA1101D4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1653EAB-A38B-4850-A862-8ABBD8E6DBAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/OpenWeatherAPI/WeatherFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "forcast(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1653EAB-A38B-4850-A862-8ABBD8E6DBAA - 5263e56fb3d3387c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinedWeatherApp.WeatherFetcher.(forcast in _4FD0B4DC6EDF239B97269A8C08664812)&lt;A where A: Swift.Decodable&gt;(with: Foundation.URLComponents) -&gt; Combine.AnyPublisher&lt;A, CombinedWeatherApp.WeatherError&gt;"
+                  moduleName = "CombinedWeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwasimuddin/Downloads/CombineWeatherApp/CombineWeatherApp-Starter/CombinedWeatherApp/Weather/OpenWeatherAPI/WeatherFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1758">
+               </Location>
+               <Location
+                  uuid = "A1653EAB-A38B-4850-A862-8ABBD8E6DBAA - a224b08b139053ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((data: Foundation.Data, response: __C.NSURLResponse)) -&gt; Combine.AnyPublisher&lt;A, CombinedWeatherApp.WeatherError&gt; in CombinedWeatherApp.WeatherFetcher.(forcast in _4FD0B4DC6EDF239B97269A8C08664812)&lt;A where A: Swift.Decodable&gt;(with: Foundation.URLComponents) -&gt; Combine.AnyPublisher&lt;A, CombinedWeatherApp.WeatherError&gt;"
+                  moduleName = "CombinedWeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwasimuddin/Downloads/CombineWeatherApp/CombineWeatherApp-Starter/CombinedWeatherApp/Weather/OpenWeatherAPI/WeatherFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7D8135B-9C80-4853-9BC6-7CCE7ED6753B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/OpenWeatherAPI/WeatherFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "forcast(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C87ADB8-F2C6-4312-98EA-4F0A1E859E1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/WeeklyWeather/WeeklyWeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setupObservable()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF07AA60-C395-42F4-9238-6CDAB5E59566"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/WeeklyWeather/WeeklyWeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "setupObservable()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5ED1F4B-43A9-4704-B35D-2A3035E707EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/WeeklyWeather/WeeklyWeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchWeather(forCity:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3CD5C39-BF16-46A7-B99F-BE4A16CF5877"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Utilities/Parsing/Parsing.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "decode(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
